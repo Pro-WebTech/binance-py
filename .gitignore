@@ -1,0 +1,11 @@
+.tox
+.cache/v/cache
+docs/_build
+binance/__pycache__/
+build/
+dist/
+python_binance.egg-info/
+*__pycache__
+*.egg-info/
+.idea/
+venv*/

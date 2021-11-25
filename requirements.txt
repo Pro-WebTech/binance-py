@@ -1,0 +1,5 @@
+aiohttp
+dateparser
+requests
+ujson
+websockets==9.1
